@@ -156,7 +156,7 @@ function SlotAccessModal({ isOpen, onClose }) {
             </div>
             <div className="flex-1">
               <p className="font-display font-bold text-lg tracking-wide">CALL HOTLINE NOW</p>
-              <p className="text-neon text-xl font-semibold mt-1">708-979-9995</p>
+              <p className="text-neon text-xl font-semibold mt-1">708-475-2557</p>
             </div>
           </a>
 
