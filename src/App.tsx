@@ -148,7 +148,7 @@ function SlotAccessModal({ isOpen, onClose }) {
         <div className="space-y-4">
           {/* Option 1: Call Hotline */}
           <a
-            href="tel:708-979-9995"
+            href="tel:708-475-2557"
             className="flex items-center gap-4 p-6 bg-obsidian border border-neon/30 hover:border-neon rounded-lg transition-all duration-300 hover:shadow-neon group"
           >
             <div className="w-14 h-14 bg-neon/20 rounded-lg flex items-center justify-center group-hover:bg-neon/30 transition-colors">
