@@ -618,8 +618,8 @@ function IntakePanel() {
                 <Phone className="w-5 h-5 text-neon" />
                 <span className="font-semibold">DIRECT HOTLINE</span>
               </div>
-              <a href="tel:708-979-9995" className="text-2xl font-display hover:text-neon transition-colors">
-                708-979-9995
+              <a href="tel:708-475-2557" className="text-2xl font-display hover:text-neon transition-colors">
+                708-475-2557
               </a>
             </div>
 
