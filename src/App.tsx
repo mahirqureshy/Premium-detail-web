@@ -99,11 +99,11 @@ function Navigation() {
           </div>
 
           <a
-            href="tel:708-979-9995"
+            href="tel:708-475-2557"
             className="flex items-center gap-2 bg-neon hover:bg-neon-500 px-4 py-2.5 rounded text-sm font-semibold transition-all duration-300 hover:shadow-neon"
           >
             <Phone className="w-4 h-4" />
-            <span className="hidden sm:inline">708-979-9995</span>
+            <span className="hidden sm:inline">708-475-2557</span>
             <span className="sm:hidden">Call Now</span>
           </a>
         </div>
