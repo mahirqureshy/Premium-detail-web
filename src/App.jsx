@@ -114,7 +114,7 @@ function Navigation() {
 }
 
 // Modal Component
-function SlotAccessModal({ isOpen, onClose }: { isOpen: boolean; onClose: () => void }) {
+function SlotAccessModal({ isOpen, onClose }) {
   if (!isOpen) return null;
 
   return (
